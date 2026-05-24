@@ -1,10 +1,10 @@
-# JobBoard 💼
+# JobBoard 
 
 A premium, minimalist job directory application designed for modern professionals. Built using **React**, **TypeScript**, and **Vite**, this application offers a streamlined, distraction-free interface to discover and explore career opportunities.
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 - **Minimalist Aesthetic**: Sleek black-and-white theme focusing entirely on content, typography, and exceptional readability using the Lato font.
 - **Interactive Job Cards**: 
@@ -18,7 +18,7 @@ A premium, minimalist job directory application designed for modern professional
 
 ---
 
-## 🛠️ Architecture & Tech Stack
+## Architecture & Tech Stack
 
 ### Frontend & Language
 * **React 19**: Modern declarative UI library.
@@ -32,7 +32,7 @@ A premium, minimalist job directory application designed for modern professional
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 ├── public/                 # Static assets (Favicons, public resources)
@@ -53,7 +53,7 @@ A premium, minimalist job directory application designed for modern professional
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to set up and run the project locally:
 
@@ -76,7 +76,7 @@ npm install
 ```bash
 npm run dev
 ```
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the application.
+Open https://jxsteve.netlify.app/ in your browser to view the application.
 
 ### 4. Build for Production
 ```bash
