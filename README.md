@@ -78,8 +78,4 @@ npm run dev
 ```
 Open https://jxsteve.netlify.app/ in your browser to view the application.
 
-### 4. Build for Production
-```bash
-npm run build
-```
-The optimized static build will be generated in the `/dist` directory.
+
